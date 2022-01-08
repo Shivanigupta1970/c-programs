@@ -1,8 +1,22 @@
+
+/*
+
+how many rows columns :  2
+1
+2
+3
+4
+12
+34
+
+
+*/
+
 #include <stdio.h>
 main()
 {
 	int arr[5][5], i,j, n;
-	printf("how many erow columns :  ");
+	printf("how many rows columns :  ");
 	scanf("%d",&n);
 	
 	
