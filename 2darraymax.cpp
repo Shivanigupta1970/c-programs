@@ -1,3 +1,13 @@
+/*
+
+how many row and column 2
+13
+42
+63
+36
+max= 63
+
+*/
 #include <stdio.h>
 main()
 {
